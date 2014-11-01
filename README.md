@@ -1,4 +1,3 @@
 # One Month Rails
 
-This is the pinteresting sample application for
-Anthony smells and Laura looks like Norbit
+Laura smells and looks like a granny, she is currently licking my arm and annoying me, please make her stop. OH NO SHE JUST FARTED LOL.
