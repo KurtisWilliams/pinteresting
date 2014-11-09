@@ -10,6 +10,7 @@ $jumbotron-color:                     #2980b9;
 $jumbotron-bg:                        #ecf0f1;
 $brand-primary:                       #2980b9;
 
+@import "bootstrap-sprockets";
 @import 'bootstrap';
 
 .center {
